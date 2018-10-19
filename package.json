@@ -1,0 +1,14 @@
+{
+  "name": "mapper",
+  "version": "0.1.0",
+  "description": "Creates 2D maps for games",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Noah Gersh",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^3.0.5"
+  }
+}
